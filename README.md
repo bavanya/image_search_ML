@@ -4,6 +4,7 @@
 The objective of the project is to build a prototype of the image search feature.
 
 **Dataset Overview**
+
 In the dataset, each image is named with it's id as jpg extension, and description and other important tags of the image are provided in a csv file. 
 Due to the size restriction, only selective images are uploaded to the respository.
 
@@ -19,8 +20,10 @@ Work done in the Version-1 of the prototype in model.ipynb notebook is:
 **Future Work**
 
 Version-2:
+
 Plan is to generate an entry to the annotations.csv file when a new image is added to the dataset.
 For this, a model should be built using the existing data which can be used to generate tags and description to a new image.
 
-Version-3
+Version-3:
+
 Plan is to add a new feature where similar image results will be displayed whenever an image is provided for search.
