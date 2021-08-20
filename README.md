@@ -27,3 +27,4 @@ For this, a model should be built using the existing data which can be used to g
 **Version-3:**
 
 Plan is to add a new feature where similar image results will be displayed whenever an image is provided for search.
+This can be done by generating description and tags of the query image and checking the similarity with the descriptions and tags of the images in the database. 
