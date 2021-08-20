@@ -9,7 +9,7 @@ Due to the size restriction, only selective images are uploaded to the resposito
 
 **Version-1**:
 
-Worke done in the Version-1 of the prototype in model.ipynb notebook is:
+Work done in the Version-1 of the prototype in model.ipynb notebook is:
 1. Sentence embeddings are obtained for the descriptions to the images.
 2. A search query is taken as an input and sentence embeeding of the query is obtained.
 3. Cosine distance is obtained between the query_embeeding and the embeedings of the image descriptions.
