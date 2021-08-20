@@ -7,8 +7,9 @@ The objective of the project is to build a prototype of the image search feature
 In the dataset, each image is named with it's id as jpg extension, and description and other important tags of the image are provided in a csv file. 
 Due to the size restriction, only selective images are uploaded to the respository.
 
-**Version-1**
-Worked done in the Version-1 of the prototype in model.ipynb notebook is:
+**Version-1**:
+
+Worke done in the Version-1 of the prototype in model.ipynb notebook is:
 1. Sentence embeddings are obtained for the descriptions to the images.
 2. A search query is taken as an input and sentence embeeding of the query is obtained.
 3. Cosine distance is obtained between the query_embeeding and the embeedings of the image descriptions.
