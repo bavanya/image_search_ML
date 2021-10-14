@@ -28,3 +28,5 @@ For this, a model should be built using the existing data which can be used to g
 
 Plan is to add a new feature where similar image results will be displayed whenever an image is provided for search.
 This can be done by generating description and tags of the query image and checking the similarity with the descriptions and tags of the images in the database. 
+
+**Creative projects to explore in AI-** [Experiments with google](https://experiments.withgoogle.com/collection/ai)
